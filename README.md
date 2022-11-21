@@ -10,7 +10,7 @@
 - react-native
 - expo  
 ### Run the project
-- #1 install 
+- #1 install node js
   version 16 
 - #2 install dependencies
   `yarn` or `npm install`   
