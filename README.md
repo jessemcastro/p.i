@@ -13,7 +13,7 @@
 - #1 install node js
   version 16 
 - #2 install dependencies
-  `yarn` or `npm install`   
+  `npm install`   
 - #3 start the project 
   `npm start` 
 - #4 run the project 
