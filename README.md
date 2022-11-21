@@ -14,6 +14,8 @@
   version 16 
 - #2 install dependencies
   `yarn` or `npm install`   
-- #3 run the project 
-  `yarn web` or `npm run web` 
+- #3 start the project 
+  `npm start` 
+- #4 run the project 
+  `npm run web` 
   
