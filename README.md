@@ -1,8 +1,8 @@
 # meu-colo app 
 ### Team
-- Iago Osti
 - Jesse Macedo Castro
 - Jose Edson De Souza
+- Leandro Carvalho
 - Yan Victor Borba Araujo
 ### Group 33
 ### Tecnologies
